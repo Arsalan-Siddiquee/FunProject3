@@ -1,11 +1,12 @@
 import styled from "styled-components";
 import { Button } from "../styled/Button";
+import dices from "../assets/dices.png";
 
 const StartGame = ( {toggle} ) => {
   return (
     <Container>
       <div>
-      <img src="/images/dices.png" alt="image.png"/>
+      <img src={dices} alt="image.png"/>
 
     </div>
       
