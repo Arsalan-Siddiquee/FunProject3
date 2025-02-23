@@ -64,7 +64,7 @@ color: black;
   color: white;
 }
 
-`,Lm=({toggle:e})=>R.jsxs(Im,{children:[R.jsx("div",{children:R.jsx("img",{src:"/images/dices.png",alt:"image.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Ku,{onClick:e,children:"Play Now"})]})]}),Im=qe.div`
+`,Lm=({toggle:e})=>R.jsxs(Im,{children:[R.jsx("div",{children:R.jsx("img",{src:"/images/dice/dices.png",alt:"image.png"})}),R.jsxs("div",{className:"content",children:[R.jsx("h1",{children:"Dice Game"}),R.jsx(Ku,{onClick:e,children:"Play Now"})]})]}),Im=qe.div`
 max-width: 1180px;
 height: 100vh;
 display: flex;
